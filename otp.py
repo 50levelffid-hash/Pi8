@@ -34,7 +34,7 @@ OWNER_ID    = 6346250222
 BOT_NAME    = "RTF OTP"
 
 MONGODB_URL = "mongodb+srv://sahajada07:Sahajada123@cluster0.vynn0ht.mongodb.net/?appName=Cluster0"
-DB_NAME     = "rtf_gamming_bot"
+DB_NAME     = "rtf_gammng_bot"
 
 ADMIN_IDS = {6346250222}
 UNLIMITED_IDS = {7516309870}
